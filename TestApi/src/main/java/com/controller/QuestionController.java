@@ -8,4 +8,12 @@ public class QuestionController {
 		return null;
 	}
 
+	public boolean delQuestion() {
+		return false;
+	}
+
+	public boolean addQuestion() {
+		return false;
+	}
+
 }
